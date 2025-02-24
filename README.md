@@ -1,6 +1,6 @@
 # 🎬 Recomendador de Filmes  
 
-Um site que recomenda filmes com base nas preferências do usuário.  
+Um site que recomenda filmes com base nas preferências do usuário. 
 
 ## 🔹 Funcionalidades  
 - Cadastro e login de usuários  
