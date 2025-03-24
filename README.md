@@ -16,11 +16,14 @@ Um site que recomenda filmes com base nas preferências do usuário.
 ## 📚 Tecnologias Utilizadas
 **Frontend**:
 React.js: Interface de usuário dinâmica e responsiva.
+
 Tailwind CSS: Estilização rápida e consistente.
+
 React Router: Gerenciamento de rotas da aplicação.
 
 **Backend**:
 Node.js com Express: API REST para comunicação com o banco de dados.
+
 Supabase: Banco de dados para armazenamento de dados dos usuários, guias e progresso.
 
 ## 🚀 Status  
