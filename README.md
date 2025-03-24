@@ -13,7 +13,7 @@ Um site que recomenda filmes com base nas preferências do usuário.
 - `src/` → Código-fonte do site  
 - `tests/` → Testes automatizados (futuramente)
 
-##📚 Tecnologias Utilizadas
+📚 Tecnologias Utilizadas
 Frontend:
 React.js: Interface de usuário dinâmica e responsiva.
 Tailwind CSS: Estilização rápida e consistente.
