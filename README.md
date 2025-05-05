@@ -6,7 +6,8 @@ Um site que recomenda filmes com base nas preferências do usuário.
 - Cadastro e login de usuários  
 - Marcação de filmes já assistidos  
 - Filtros por gênero, década e premiações  
-- Sistema de recomendação automática  
+- Sistema de recomendação automática
+- Sistema de swipe de flimes(tinder)
 
 ## 📂 Estrutura do Projeto  
 - `docs/` → Documentação e requisitos  
