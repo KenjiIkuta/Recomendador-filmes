@@ -27,4 +27,4 @@ Node.js com Express: API REST para comunicação com o banco de dados.
 Supabase: Banco de dados para armazenamento de dados dos usuários, guias e progresso.
 
 ## 🚀 Status  
-🔹 **Fase de planejamento**: Definição de requisitos e organização do código.  
+🔹 **Fase de planejamento**: Início da implementação.
